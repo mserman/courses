@@ -15,6 +15,7 @@ Materials are under development and subject to change.
 * Roger Peng
 * Nick Carchedi 
 * Sean Kross
+* Miruna Serman(test)
 
 ### License
 
